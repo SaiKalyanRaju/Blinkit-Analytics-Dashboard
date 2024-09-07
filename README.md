@@ -1,5 +1,6 @@
 # Blinkit-Analytics-Dashboard
-![image](https://github.com/user-attachments/assets/82605d87-ac4e-42ef-b7a7-acd842da5e9b)
+![image](https://github.com/user-attachments/assets/4efdf144-bb33-4c34-b443-d0f8fc96f02e)
+
 
 The Blinkit Analytics Dashboard, created using Power BI, provides a comprehensive overview of sales performance across various product categories and outlet types. The dashboard includes key metrics such as total sales, average sales per transaction, the number of items sold, and customer ratings.
 
