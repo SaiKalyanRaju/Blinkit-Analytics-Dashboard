@@ -5,7 +5,7 @@ The Blinkit Analytics Dashboard, created using Power BI, provides a comprehensiv
 
 Key Features:
 1. **Sales Insights**: Displays total sales, average sales, and sales distribution across different item types like fruits, snacks, household items, and more.
-2. **Outlet Performance**: Analyzes sales by outlet size and type, helping to identify which outlets (e.g., grocery stores, supermarkets) contribute most to sales.
+2. **Outlet Performance**: Analyzes sales by outlet size and type, helping to identify which outlets contribute most to sales.
 3. **Product Analysis**: Breaks down sales by product categories and fat content, showing which categories are performing better.
 4. **Location-Based Insights**: Highlights the performance of outlets in different locations, such as Tier 1, Tier 2, and Tier 3 cities, offering geographic sales insights.
 
